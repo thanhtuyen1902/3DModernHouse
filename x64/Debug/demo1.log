@@ -1,0 +1,83 @@
+﻿  Source.cpp
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(203,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(207,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(207,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(207,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(208,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(208,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(208,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(209,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(209,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(210,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(210,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(216,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(216,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(217,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(217,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(218,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(218,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(218,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(219,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(219,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(219,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(225,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(225,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(226,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(226,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(227,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(227,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(227,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(228,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(228,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(228,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(234,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(235,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(235,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(236,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(236,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(236,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(237,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(237,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(247,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(247,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(256,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(256,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(265,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(265,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(276,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(276,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(362,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(370,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(378,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(379,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(379,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(380,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(380,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(387,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(388,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(388,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(389,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(389,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(403,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(437,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(438,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(439,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(440,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(445,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(445,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(446,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(447,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(448,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(449,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(502,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(507,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(508,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(509,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(510,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(525,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(531,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(532,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(533,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(534,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\demo1\Source.cpp(621,14): warning C4305: '+=': truncation from 'double' to 'float'
+  demo1.vcxproj -> D:\tuyen_2251061919\Nam3\DHMT\GraphicComputerCode\GraphicComputer\x64\Debug\demo1.exe
